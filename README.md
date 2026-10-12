@@ -19,7 +19,7 @@ Open to Business, Data, Product Analyst and Strategy roles in Ireland.
 
 | Project | What it shows |
 |---|---|
-| **Fraudcast** | UPI fraud detection: Isolation Forest + location check + ensemble classifier. **95% recall** on held-out data. Paper presented at **ICERI-2025**. |
+| [**Fraudcast**](https://github.com/v1neet3/FraudCast) | UPI fraud detection: Isolation Forest + location check + ensemble classifier. **95% recall** on held-out data. Paper presented at **ICERI-2025**. |
 | [**Carbon Footprint Optimizer**](https://github.com/v1neet3/Carbon-Footprint-Optimizer-for-Urban-Freight-Operations) | Emissions model and route optimiser for last-mile freight (1,200 deliveries, Delhi). |
 | [**StocKast**](https://github.com/v1neet3/StocKast) | Live NSE prices + news sentiment in an XGBoost model that produces buy/sell signals. |
 | [**HeartSync-Pro**](https://github.com/v1neet3/HeartSync-Pro) | Heart-disease risk classifier as a Streamlit app with plain-English output. |
