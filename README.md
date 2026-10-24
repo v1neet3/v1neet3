@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <a href="https://vineet-hankare.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:1D9E75,100:7F77DD&height=220&section=header&text=Vineet%20Hankare&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20%26%20Data%20Analyst%20%7C%20MSc%20Business%20Analytics%20%7C%20Galway&descAlignY=58&descSize=18&descColor=e6fff6" width="100%" alt="Vineet Hankare: Business & Data Analyst"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,45:1D9E75,100:7F77DD&height=220&section=header&text=Vineet%20Hankare&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20%26amp%3B%20Data%20Analyst%20%7C%20MSc%20Business%20Analytics%20%7C%20Galway&descAlignY=58&descSize=18&descColor=e6fff6" width="100%" alt="Vineet Hankare: Business & Data Analyst"/>
 </a>
 
 <p align="center">
